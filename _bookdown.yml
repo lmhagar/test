@@ -1,6 +1,5 @@
 
 new_session: no
-output_dir: docs
 delete_merged_file: true
 book_filename: "topics_in_consulting.Rmd"
 rmd_files:
