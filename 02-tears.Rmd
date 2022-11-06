@@ -8,5 +8,5 @@ library(MASS)
 
 ```{r}
 x <- mvrnorm(100,c(0,0),diag(2))
-plot(x[1], x[2])
+plot(x[,1], x[,2])
 ```
